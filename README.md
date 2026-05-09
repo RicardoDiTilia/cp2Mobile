@@ -51,4 +51,8 @@ Home -> UsersFetch | Users -> UserDetails -> UserPosts | Posts | CreatePost | Er
 
 ### Grupo
 
-- (preencher os 5 nomes)
+Ricardo Di Tilia - RM555155
+Bento Rangel - RM559124
+Eric Yuji - RM 554869 
+Kaue Pires - RM 554403 
+Higor Batista - RM 558907
